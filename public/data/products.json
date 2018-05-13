@@ -1,0 +1,48 @@
+{
+    "products": [
+      {
+          "seller": "basics",
+          "item": "sunglasses",
+          "price": 15,
+          "description" : "brown shade men's sunglasses"
+      },
+      {
+          "seller": "prime",
+          "item": "sunglasses",
+          "price": 18,
+          "description" : "blue shade men's sunglasses"
+      },
+      {
+          "seller": "basics",
+          "item": "skate board",
+          "price": 40,
+          "description" : "skateboard 3.5 feet long"
+      },
+      {
+          "seller": "prime",
+          "item": "skate board",
+          "price": 45,
+          "description" : "skateboard 3 feet long"
+      },
+      {
+          "seller": "basics",
+          "item": "iphone",
+          "price": 999,
+          "description" : "iphone X 5.5 inch screen"
+      },
+        {
+            "seller": "prime",
+            "item": "iphone",
+            "price": 1099,
+            "description" : "iphone X 5.5 inch screen"
+        },
+
+
+        {
+            "seller": "basics",
+            "item": "piano",
+            "price": 1200,
+            "description" : "professional keyboard"
+        }
+  ]
+}
